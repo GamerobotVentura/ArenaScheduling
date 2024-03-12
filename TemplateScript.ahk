@@ -3,7 +3,7 @@
 ^1:: ; Ctrl + 1
 {
 	Send "^a" ; Ctrl + a to select all and remove whatever was there before
-	Send "TEACHER1" ; Types the teacher's last name. REPLACE THIS. 
+	Send "teacher1" ; Types the teacher's last name. REPLACE THIS. 
 	Send "+{Tab 2}"  ; Moves to the period dropdown menu
 	Send  "{Left 16}" ; Selects the first, blank value in the dropdown menu
 	Send "{Down 1}" ; Presses down arrow whatever number the period is
@@ -14,7 +14,7 @@
 ^2:: ; Ctrl + 2
 {
 	Send "^a"
-	Send "TEACHER2" ; Replace with your teacher's last name
+	Send "teacher2" ; Replace with your teacher's last name
 	Send "+{Tab 2}"  
 	Send  "{Left 16}" 
 	Send "{Down 2}" 

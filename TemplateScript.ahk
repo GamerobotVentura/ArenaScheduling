@@ -88,3 +88,4 @@
 	Send "{Enter}"
 }
 
+; Samuel Kimball 🦆
